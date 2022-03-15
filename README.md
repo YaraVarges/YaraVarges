@@ -1,7 +1,7 @@
 ### Olá! Sou Yara Varges 👋 
 <a href="https://www.instagram.com/yara.varges/" target="_blank"><img height="40" width="40" src="https://img.icons8.com/fluency/452/instagram-new.png" target="_blank"></a>
-<a href="discord.com/channels/yaravarges#0340" target="_blank"><img height="40" width="40" src="https://img.icons8.com/color/452/discord-logo.png" target="_blank"></a>
 <a href="https://www.linkedin.com/in/yara-varges-nunes-523887144/" target="_blank"><img height="40" width="40" src="https://img.icons8.com/fluency/452/linkedin.png" target="_blank"></a>
+<a href="mailto:varges98@gmail.com" target="_blank"><img height="40" width="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/452/external-email-advertising-kiranshastry-lineal-color-kiranshastry-4.png" target="_blank"></a>
 
 
 - 🔭 Hoje trabalho com Suporte em TI e Desenvolvimento Web
