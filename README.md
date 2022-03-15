@@ -1,4 +1,7 @@
-### Olá! Sou Yara Varges 👋
+### Olá! Sou Yara Varges 👋 
+<a href="https://www.instagram.com/yara.varges/" target="_blank"><img height="40" width="40" src="https://img.icons8.com/fluency/452/instagram-new.png" target="_blank"></a>
+<a href="discord.com/channels/yaravarges#0340" target="_blank"><img height="40" width="40" src="https://img.icons8.com/color/452/discord-logo.png" target="_blank"></a>
+<a href="https://www.linkedin.com/in/yara-varges-nunes-523887144/" target="_blank"><img height="40" width="40" src="https://img.icons8.com/fluency/452/linkedin.png" target="_blank"></a>
 
 
 - 🔭 Hoje trabalho com Suporte em TI e Desenvolvimento Web
@@ -6,6 +9,7 @@
 - 👩🏻‍🎓 Graduanda em Sistemas de Informação pelo IFBA.
 - 📫 Contato: varges98@gmail.com
 <br>
+
 <div align="center">
   <a href="https://github.com/YaraVarges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YaraVarges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
