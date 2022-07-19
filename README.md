@@ -5,7 +5,7 @@
 <a href="mailto:varges98@gmail.com" target="_blank"><img height="40" width="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/452/external-email-advertising-kiranshastry-lineal-color-kiranshastry-4.png" target="_blank"></a>
 
 - 🔭 Hoje trabalho com Suporte em TI e Desenvolvimento Web
-- 🌱 Aperfeiçoando os estudos em JavaScript, React e TypeScript
+- 🌱 Aperfeiçoando os estudos em JavaScript, ReactJs e TypeScript
 - 👩🏻‍🎓 Graduanda em Sistemas de Informação pelo IFBA.
 - 📫 Contato: varges98@gmail.com
 <br>
