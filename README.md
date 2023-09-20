@@ -6,7 +6,7 @@
 
 - 🔭 Hoje trabalho com Suporte em TI e Desenvolvimento Web
 - 🌱 Aperfeiçoando os estudos em JavaScript, ReactJs e TypeScript
-- 👩🏻‍🎓 Graduanda em Sistemas de Informação pelo IFBA.
+- 👩🏻‍🎓 Bacharel em Sistemas de Informação e Técnica em Informática pelo IFBA.
 - 📫 Contato: varges98@gmail.com
 <br>
 
