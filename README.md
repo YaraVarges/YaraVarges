@@ -8,6 +8,7 @@
 - 🌱 Aperfeiçoando os estudos em JavaScript, ReactJs e TypeScript
 - 👩🏻‍🎓 Bacharel em Sistemas de Informação e Técnica em Informática pelo IFBA.
 - 📫 Contato: varges98@gmail.com
+- 🌐 Portifólio: https://yaravarges.github.io/portifolioYara
 <br>
 
 <div align="center">
