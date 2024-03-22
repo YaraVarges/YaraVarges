@@ -1,16 +1,22 @@
-## Olá! Sou Yara Varges 🦉
+# Hi, I'm Yara Varges 🦉
 
-<a href="https://www.instagram.com/yara.varges/" target="_blank"><img height="40" width="40" src="https://img.icons8.com/fluency/452/instagram-new.png" target="_blank"></a>
-<a href="https://www.linkedin.com/in/yara-varges-nunes-523887144/" target="_blank"><img height="40" width="40" src="https://img.icons8.com/fluency/452/linkedin.png" target="_blank"></a>
-<a href="mailto:varges98@gmail.com" target="_blank"><img height="40" width="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/452/external-email-advertising-kiranshastry-lineal-color-kiranshastry-4.png" target="_blank"></a>
+<div>
+<a href="https://yaravarges.github.io/portfolio" target="_blank"><img src="https://img.shields.io/static/v1?label=Portfolio&message=YaraVarges&color=7159c1&style=for-the-badge"/></a>
+<a href="https://www.instagram.com/yara.varges/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/yara-varges-523887144/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:varges98@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+</div>
 
-- 🔭 Hoje trabalho com Suporte em TI e Desenvolvimento Web
-- 🌱 Aperfeiçoando os estudos em JavaScript, ReactJs e TypeScript
-- 👩🏻‍🎓 Bacharel em Sistemas de Informação e Técnica em Informática pelo IFBA.
-- 📫 Contato: varges98@gmail.com
-- 🌐 Portifólio: https://yaravarges.github.io/portifolioYara
 <br>
+I am a Front-End Developer in constant learning, passionate about technology from an early age, and always seeking to understand the nuances of the area and its innovations, to be able to contribute as much as possible.
 
+I have a Bachelor's degree in Information Systems and a Computer Science degree from IFBA, with practical experience in JavaScript, React JS, TypeScript and MySQL technologies. I'm currently focused on improving my knowledge by developing meaningful projects.
+
+I work as a technical support analyst at Cyber Tecnologia, where I supervise the support team. This experience provides valuable insight that complements my front-end development journey.
+
+Along the way, I've learned that courage is essential, and this inspires me on a daily basis. As Neil Gaiman said in "Coraline and the Secret World": <i>"When you're afraid and you do it anyway, that's courage."</i>
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/YaraVarges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaraVarges&layout=compact&langs_count=7&theme=tokyonight"/>
