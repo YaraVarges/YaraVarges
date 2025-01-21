@@ -1,13 +1,20 @@
 # Hi, I'm Yara Varges 🦉
 <br>
 <p>
-  I am a Front-End Developer in constant learning, passionate about technology from an early age, and always seeking to understand the nuances of the area and its innovations, to be able to contribute as much as possible.
-
+I am a Front-End Developer in constant learning, passionate about technology from an early age, and always seeking to understand the nuances of the area and its innovations, to be able to contribute as much as possible.
+  
 I have a Bachelor's degree in Information Systems and a Computer Science degree from IFBA, with practical experience in JavaScript, React JS, TypeScript and MySQL technologies. I'm currently focused on improving my knowledge by developing meaningful projects.
 
 I work as a technical support analyst at Cyber Tecnologia, where I supervise the support team. This experience provides valuable insight that complements my front-end development journey.
 
 Along the way, I've learned that courage is essential, and this inspires me on a daily basis. As Neil Gaiman said in "Coraline and the Secret World": <i>"When you're afraid and you do it anyway, that's courage."</i>
+</p>
+<p>
+Portuguese (Brazilian): <br>
+Sou uma Desenvolvedora Web em constante aprendizado, apaixonada por tecnologia desde cedo, e sempre buscando entender as nuances da área e suas inovações, para poder contribuir o máximo possível.
+Sou Bacharel em Sistemas da Informação pelo IFBA, com experiência prática em tecnologias JavaScript, React JS, TypeScript e MySQL. Atualmente estou focado em aprimorar meus conhecimentos desenvolvendo projetos significativos.
+Atuo como analista de suporte técnico na Cyber ​​Tecnologia, onde supervisiono a equipe de suporte. Essa experiência fornece insights valiosos que complementam minha jornada de desenvolvimento front-end.
+Ao longo do caminho, aprendi que coragem é essencial, e isso me inspira diariamente. Como disse Neil Gaiman em "Coraline e o Mundo Secreto": <i>"Quando você tem medo e faz mesmo assim, isso é coragem."</i>
 </p>
 <br>
 
