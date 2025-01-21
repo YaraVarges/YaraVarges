@@ -20,10 +20,6 @@ Along the way, I've learned that courage is essential, and this inspires me on a
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br>
-<div>
-  <a href="https://github.com/YaraVarges">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaraVarges&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ## Contact us
 <div>
