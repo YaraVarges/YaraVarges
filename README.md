@@ -30,7 +30,7 @@ Ao longo do caminho, aprendi que coragem é essencial, e isso me inspira diariam
 
 ## Contact us
 <div>
-  <a href="https://yaravarges.github.io/portfolio" target="_blank"><img src="https://img.shields.io/static/v1?label=Portfolio&message=YaraVarges&color=7159c1&style=for-the-badge"/></a>
+  <a href="https://yaravarges.com.br/" target="_blank"><img src="https://img.shields.io/static/v1?label=Portfolio&message=YaraVarges&color=7159c1&style=for-the-badge"/></a>
   <a href="https://www.instagram.com/yara.varges/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yara-varges-523887144/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:varges98@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
